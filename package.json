@@ -1,0 +1,22 @@
+{
+  "name": "google-libphonenumber-shim",
+  "version": "1.0.0",
+  "description": "Google's lib is too big",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doelfke/google-libphonenumber-shim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doelfke/google-libphonenumber-shim/issues"
+  },
+  "homepage": "https://github.com/Doelfke/google-libphonenumber-shim#readme",
+  "dependencies": {
+    "validator": "^13.0.0"
+  }
+}

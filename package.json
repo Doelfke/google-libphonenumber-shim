@@ -1,6 +1,6 @@
 {
   "name": "google-libphonenumber-shim",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Google's lib is too big",
   "main": "index.js",
   "scripts": {

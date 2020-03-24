@@ -13,4 +13,4 @@ const PhoneNumberUtil = {
     }
 }
 
-export default PhoneNumberUtil
+export { PhoneNumberUtil }

@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Doelfke/google-libphonenumber-shim#readme",
   "dependencies": {
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
